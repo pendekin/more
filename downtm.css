@@ -7,12 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-body{
-  min-height: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .download-container{
   position: relative;
